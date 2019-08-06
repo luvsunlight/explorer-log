@@ -16,12 +16,11 @@
 	"scripts": {
 		"test": "mocha --require babel-core/register",
 		"semantic-release": "semantic-release",
-		"commit": "git-cz",
-		"test:single": "istanbul cover _mocha test/index.test.js"
+		"commit": "git-cz"
 	},
 	"config": {
 		"ghooks": {
-			"pre-commit": "npm run test:single"
+			"pre-commit": "npm run test"
 		},
 		"commitizen": {
 			"path": "node_modules/cz-conventional-changelog"
