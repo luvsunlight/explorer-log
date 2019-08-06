@@ -2,7 +2,7 @@
 
 > A 'DIY' log to help print beautiful charaters on your explorer.
 
-![https://github.com/luvsunlight/explorer-log/tree/master/screenshots/main.png](main.png)
+![https://github.com/luvsunlight/explorer-log/blob/master/screenshots/main.png](main.png)
 
 # Installation
 
@@ -44,13 +44,13 @@ log("custom theme", {
 
 # Api
 
-log(test, option)
+> log(test, option)
 
-## test (string)
+## test <String>
 
 > your log message
 
-## option
+## option <Object>
 
 |    param     |     desc      |                             type                              | default |
 | :----------: | :-----------: | :-----------------------------------------------------------: | :-----: |
@@ -64,6 +64,6 @@ log(test, option)
 
 # License
 
-[https://opensource.org/licenses/MIT](MIT)
+[MIT](https://opensource.org/licenses/MIT)
 
 Copyright (c) 2019-present, Zhiyuan (prozac) Li
