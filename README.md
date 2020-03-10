@@ -2,7 +2,7 @@
 
 > A 'DIY' log to help print beautiful charaters on your explorer.
 
-![https://github.com/luvsunlight/explorer-log/blob/master/screenshots/main.png](main.png)
+![](https://github.com/luvsunlight/explorer-log/blob/master/screenshots/main.png)
 
 # Installation
 
